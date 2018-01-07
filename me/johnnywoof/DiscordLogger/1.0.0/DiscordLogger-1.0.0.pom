@@ -7,8 +7,9 @@
   <version>1.0.0</version>
   <dependencies>
     <dependency>
-      <artifactId>BungeeCord</artifactId>
-      <version>1288</version>
+      <groupId>net.md-5</groupId>
+      <artifactId>bungeecord-api</artifactId>
+      <version>1.12-SNAPSHOT</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
